@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/random-grid-picker/static/css/main.8450366d.css",
+    "main.js": "/random-grid-picker/static/js/main.950a9120.js",
+    "index.html": "/random-grid-picker/index.html",
+    "main.8450366d.css.map": "/random-grid-picker/static/css/main.8450366d.css.map",
+    "main.950a9120.js.map": "/random-grid-picker/static/js/main.950a9120.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8450366d.css",
+    "static/js/main.950a9120.js"
+  ]
+}
